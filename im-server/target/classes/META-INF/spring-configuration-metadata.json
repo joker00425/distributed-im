@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zsj.server.config.ZookeeperConfig",
+      "name": "registry.zk",
+      "type": "com.zsj.server.config.ZookeeperConfig"
+    }
+  ],
+  "properties": []
+}
